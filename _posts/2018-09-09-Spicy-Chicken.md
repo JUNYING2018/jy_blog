@@ -7,7 +7,7 @@ author: "Junying"
 ---
 ## **一、图片**
 
-![pic01]({{ "/assets/spicy_chicken_01.png" | absolute_url }} "Pic01")
+![pic01]({{ "/assets/images/spicy_chicken_01.png" | absolute_url }} "Pic01")
 
 ## **二、做法**
 1. 选择鸡腿肉

@@ -12,4 +12,4 @@ My name is Junying Xu, I am from Dazhou. I like cooking.
 
 - 浣花溪02
 
-![huanhuaxi02](https://raw.githubusercontent.com/YUNYISHENG/episode/gh-pages/_assets/image/huanhuaxi_001.jpg)
+![huanhuaxi02](https://github.com/JUNYING2018/jy_blog/blob/gh-pages/assets/images/huanhuaxi_002.jpg?raw=true)

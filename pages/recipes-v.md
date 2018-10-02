@@ -1,6 +1,6 @@
 ---
 layout: "page"
 title: "菜谱-V"
-permalink: /recipes/
+permalink: /recipes-v/
 ---
 ## **001. 油泼面**
